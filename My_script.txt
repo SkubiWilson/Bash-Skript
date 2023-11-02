@@ -1,0 +1,19 @@
+cd /home/skubi/Desktop
+mkdir Luchukiv
+cd Luchukiv
+mkdir TAA
+mkdir TBB
+mkdir TDK
+cd TBB
+touch Luchukiv.txt
+cd ..
+cd TDK
+touch Oleg.txt
+echo "skubiwilsongmail.com" >> Oleg.txt
+cd .. 
+cd TBB
+echo "17.10.2023 KI-405"
+cd ..
+cd .. 
+cp -r Desktop/Luchukiv /home/
+ 
